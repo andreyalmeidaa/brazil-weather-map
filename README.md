@@ -31,6 +31,27 @@ As seguintes bibliotecas Python foram utilizadas no projeto:
 | **feedparser**      | Ler feeds RSS para exibir notícias                   |
 
 
+---
+
+## 🖼️ Capturas de Tela
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+  <img src="https://github.com/user-attachments/assets/a3181044-7900-4a30-b68c-49eb39ad24a4" 
+       alt="Captura 1" 
+       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+
+  <img src="https://github.com/user-attachments/assets/043d64fe-36d7-4ae6-ab44-d6325d2f9dec" 
+       alt="Captura 2" 
+       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+
+  <img src="https://github.com/user-attachments/assets/d19b9726-9f2b-4149-9d8b-a5a8e6f648ce" 
+       alt="Captura 3" 
+       style="width: 300px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+
+</div>
+
+
 ## 👨‍🎓 Créditos
 
 ### Equipe de Desenvolvimento
