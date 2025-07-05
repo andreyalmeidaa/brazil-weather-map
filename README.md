@@ -31,10 +31,39 @@ As seguintes bibliotecas Python foram utilizadas no projeto:
 | **feedparser**      | Ler feeds RSS para exibir notícias                   |
 
 
-| Nome                                                                 | Função                  | Foto |
-|----------------------------------------------------------------------|-------------------------|------|
-| ⭐ **Andrey Cavalcante de Almeida da Conceição Magalhäes**           | Desenvolvedor principal | ![Andrey](imagens/andrey.png) |
-| Daniel Leiner Cosenza                                               | Colaborador             | ![Daniel](imagens/daniel.png) |
-| Bernardo Meucci Alves Pereira                                       | Colaborador             | ![Bernardo](imagens/bernardo.png) |
-| Murilo Kenzo Peña dos Santos                                        | Colaborador             | ![Murilo](imagens/murilo.png) |
-| Sarah Raquel Aliendre de Figueireido                                | Colaboradora            | ![Sarah](imagens/sarah.png) |
+## 👨‍🎓 Créditos
+
+### Equipe de Desenvolvimento
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Source_Descompilada/templates/fotos/andrey.png" width="100"><br>
+      <b>⭐ Andrey Cavalcante</b><br>
+      Desenvolvedor principal
+    </td>
+    <td align="center">
+      <img src="Source_Descompilada/templates/fotos/daniel.png" width="100"><br>
+      Daniel Leiner Cosenza<br>
+      Colaborador
+    </td>
+    <td align="center">
+      <img src="Source_Descompilada/templates/fotos/bernardo.png" width="100"><br>
+      Bernardo Meucci Alves Pereira<br>
+      Colaborador
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Source_Descompilada/templates/fotos/murilo.png" width="100"><br>
+      Murilo Kenzo Peña dos Santos<br>
+      Colaborador
+    </td>
+    <td align="center">
+      <img src="Source_Descompilada/templates/fotos/sarah.png" width="100"><br>
+      Sarah Raquel Aliendre de Figueireido<br>
+      Colaboradora
+    </td>
+    <td></td>
+  </tr>
+</table>
