@@ -1,0 +1,3 @@
+Caso queira depurar o código, basta abrir a pasta source do projeto na sua IDE e rodar o arquivo app.py.
+Antes disso, lembre-se de fazer a instalação dos pacotes usando o arquivo instaladorPacotes.bat.
+
